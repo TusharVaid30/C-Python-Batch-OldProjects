@@ -1,0 +1,3 @@
+echo Text after colors text>"Text to color"
+FINDSTR /A": 1 /C: "23:17 21-05-2019TEXT AFTER COLORED TEXT" /S "TEXT TO COLOR"
+pause
